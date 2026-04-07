@@ -9,7 +9,7 @@ This project focuses on analyzing retail sales and customer data using SQL. The 
 ---
 
 ## 🏢 Business Background
-NovaMart Retail Solutions Pvt. Ltd. operates across multiple cities and sells consumer electronics through online and offline channels. The company collects large amounts of data related to customers, products, and orders. :contentReference[oaicite:0]{index=0}  
+NovaMart Retail Solutions Pvt. Ltd. operates across multiple cities and sells consumer electronics through online and offline channels. The company collects large amounts of data related to customers, products, and orders.
 
 This project uses SQL to analyze that data and generate insights for better decision-making.
 
